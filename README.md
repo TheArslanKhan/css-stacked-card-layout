@@ -6,7 +6,7 @@ This project demonstrates absolute positioning, z-index stacking, hover scaling 
 
 ## Project Preview
 
-![Preview](screenshot/screenshot1.jpeg)
+![Preview](Preview.jpeg)
 
 ---
 
